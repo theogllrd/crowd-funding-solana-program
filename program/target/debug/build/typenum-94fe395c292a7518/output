@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/theogaillard/Documents/CODE/crowd-funding-solana-program/program/target/debug/build/typenum-94fe395c292a7518/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/theogaillard/Documents/CODE/crowd-funding-solana-program/program/target/debug/build/typenum-94fe395c292a7518/out/op.rs
