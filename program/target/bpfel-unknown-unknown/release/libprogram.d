@@ -1,0 +1,1 @@
+/Users/theogaillard/Documents/CODE/crowd-funding-solana-program/program/target/bpfel-unknown-unknown/release/libprogram.rlib: /Users/theogaillard/Documents/CODE/crowd-funding-solana-program/program/src/lib.rs
